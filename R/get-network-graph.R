@@ -526,6 +526,7 @@ check_highway_filter = function(highway_filter) {
       "path",
       "pedestrian",
       "primary",
+      "secondary",
       "residential",
       "rest_area",
       "service",
